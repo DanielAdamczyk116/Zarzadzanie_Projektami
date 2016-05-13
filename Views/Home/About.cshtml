@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Zarzadzanie_Projektami.ViewModel.EnrollmentDateGroup>
+
+@{
+    ViewBag.Title = "Staty profili";
+}
+
+<h2>Staty profili</h2>
+
+<table>
+    <tr>
+        <th>
+            Data utworzenia
+        </th>
+        <th>
+            Profil
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataUtworzenia)
+            </td>
+            <td>
+                @item.ProfilCount
+            </td>
+        </tr>
+    }
+</table>

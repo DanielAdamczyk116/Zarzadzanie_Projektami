@@ -1,0 +1,249 @@
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\ApplicationInsights.config
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\csc.exe
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\System.Collections.Immutable.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\vbc.exe
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\VBCSCompiler.exe
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\VBCSCompiler.exe.config
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Zarzadzanie_Projektami.dll.config
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Zarzadzanie_Projektami.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Zarzadzanie_Projektami.pdb
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Antlr3.Runtime.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\EntityFramework.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\EntityFramework.SqlServer.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.Web.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.WindowsServer.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.ApplicationInsights.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Google.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Web.Infrastructure.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Newtonsoft.Json.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Owin.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Helpers.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Mvc.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Optimization.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Razor.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.WebPages.Deployment.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.WebPages.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.WebPages.Razor.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\WebGrease.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.Web.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.WindowsServer.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.ApplicationInsights.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Helpers.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Mvc.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Optimization.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Razor.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.WebPages.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.WebPages.Deployment.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.WebPages.Razor.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Antlr3.Runtime.pdb
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Newtonsoft.Json.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\EntityFramework.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\EntityFramework.SqlServer.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Google.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\obj\Debug\Zarzadzanie_Projektami.csprojResolveAssemblyReference.cache
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\obj\Debug\Zarzadzanie_Projektami.dll
+c:\users\stud\documents\visual studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\obj\Debug\Zarzadzanie_Projektami.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\ApplicationInsights.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\csc.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\vbc.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Zarzadzanie_Projektami.dll.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Zarzadzanie_Projektami.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Zarzadzanie_Projektami.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Antlr3.Runtime.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\EntityFramework.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.Web.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Newtonsoft.Json.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Owin.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Helpers.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Mvc.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Optimization.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Razor.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.WebPages.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\WebGrease.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.Web.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Helpers.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Mvc.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Optimization.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Razor.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.WebPages.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Antlr3.Runtime.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Newtonsoft.Json.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\EntityFramework.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\obj\Debug\Zarzadzanie_Projektami.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zarzadzanie_Projektami\Zarzadzanie_Projektami\obj\Debug\Zarzadzanie_Projektami.pdb
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\ApplicationInsights.config
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\csc.exe
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\System.Collections.Immutable.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\System.Reflection.Metadata.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\vbc.exe
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\VBCSCompiler.exe
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\roslyn\VBCSCompiler.exe.config
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Zarzadzanie_Projektami.dll.config
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Zarzadzanie_Projektami.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Zarzadzanie_Projektami.pdb
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Antlr3.Runtime.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\EntityFramework.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\EntityFramework.SqlServer.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.DependencyCollector.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.Web.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.WindowsServer.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.ApplicationInsights.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Google.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Web.Infrastructure.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Newtonsoft.Json.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Owin.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Helpers.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Mvc.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Optimization.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Razor.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.WebPages.Deployment.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.WebPages.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.WebPages.Razor.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\WebGrease.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.DependencyCollector.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.Web.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AI.WindowsServer.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.ApplicationInsights.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Helpers.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Mvc.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Optimization.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.Razor.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.WebPages.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.WebPages.Deployment.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\System.Web.WebPages.Razor.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Antlr3.Runtime.pdb
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Newtonsoft.Json.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\EntityFramework.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\EntityFramework.SqlServer.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Google.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\obj\Debug\Zarzadzanie_Projektami.csprojResolveAssemblyReference.cache
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\obj\Debug\Zarzadzanie_Projektami.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\obj\Debug\Zarzadzanie_Projektami.pdb
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\PagedList.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\PagedList.Mvc.dll
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\PagedList.xml
+G:\Zarzadzanie_Projektami\Zarzadzanie_Projektami\bin\PagedList.Mvc.xml
